@@ -1,0 +1,10 @@
+Hello, World!
+This is a sample file for testing the ReadFileContent function.
+
+It contains multiple lines with different content:
+- Line 1: Greeting
+- Line 2: Description
+- Line 3: Empty line above
+- Line 4: This list
+
+The function should read all of this content and return it as a single string. 
